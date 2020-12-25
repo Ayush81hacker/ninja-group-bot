@@ -1,0 +1,1 @@
+# ninja-group-bot
