@@ -17,7 +17,7 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/511ad504656e712b88235.jpg)](https://heroku.com/deploy?template=https://github.com/Ayush81hacker/Ninja-group-bot.git)
+[![Deploy](https://telegra.ph/file/b7ac4c90cd4bbf49ae69b.jpg)](https://heroku.com/deploy?template=https://github.com/Ayush81hacker/Ninja-group-bot.git)
 
 ### Configuration
 
