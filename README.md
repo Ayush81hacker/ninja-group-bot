@@ -11,13 +11,13 @@ Modular Telegram bot for managing your groups with a extras features with Hunter
     <img src="https://img.shields.io/github/forks/Sur-vivor/CinderellaProBot?label=Fork&style=social">
     
   </a>
-  <a href="https://github.com/Ayush81hacker/Ninja-group-bot">
+  <a href="https://github.com/Ayush81hacker/tiger-shroff-bot">
     <img src="https://img.shields.io/github/stars/Sur-vivor/CinderellaProBot?style=social">
   </a>
 </p>
 
 ### Click Below Image to Deploy
-[![Deploy](https://telegra.ph/file/b7ac4c90cd4bbf49ae69b.jpg)](https://heroku.com/deploy?template=https://github.com/Ayush81hacker/Ninja-group-bot.git)
+[![Deploy](https://telegra.ph/file/b7ac4c90cd4bbf49ae69b.jpg)](https://heroku.com/deploy?template=https://github.com/Ayush81hacker/tiger-shroff-bot.git)
 
 ### Configuration
 
